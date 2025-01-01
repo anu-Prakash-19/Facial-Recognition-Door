@@ -18,5 +18,5 @@ A security system that uses facial recognition to identify visitors at your door
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/facial-recognition-door.git
+   git clone https://github.com/anu-prakash-19/facial-recognition-door.git
    cd facial-recognition-door
